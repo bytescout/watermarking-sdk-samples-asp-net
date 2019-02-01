@@ -1,4 +1,4 @@
 ## Index of source code examples:
 
-\Add watermark Image From Stream
-\Add watermark to jpg
+\Add Watermark Image From Stream
+\Add Watermark to JPEG
